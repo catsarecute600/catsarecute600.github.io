@@ -1,4 +1,13 @@
 #content{
-        padding-left:150px;
+        padding-left:50px;
         font-family:Comic Sans MS;
-        text decoration:Underline;}
+        text-decoration:Underline;}
+#home{padding-left:50px;
+      font-family:Comic Sans MS;
+        text-decoration:Underline;}
+#login{padding-left:50px;
+        font-family:Comic Sans MS;
+        text-decoration:Underline;}
+#about{padding-left:50ps; 
+        font-family:Comic Sans MS;
+        text-decoration:Underline;}
