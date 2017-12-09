@@ -1,13 +1,17 @@
 #content{
-        padding-left:100px;
+        padding-left:300px;
         font-family:Comic Sans MS;
-        text-decoration:Underline;}
-#home{padding-left:100px;
+        text-decoration:Underline;
+        background;magenta;}
+#home{padding-left:300px;
       font-family:Comic Sans MS;
         text-decoration:Underline;}
-#login{padding-left:100px;
+background:green;}
+#login{padding-left:300px;
         font-family:Comic Sans MS;
-        text-decoration:Underline;}
-#about{padding-left:100px; 
+        text-decoration:Underline;
+        background:pink}
+#about{padding-left:300px; 
         font-family:Comic Sans MS;
-        text-decoration:Underline;}
+        text-decoration:Underline;
+        background:purple;}
