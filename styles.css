@@ -2,16 +2,16 @@
         padding-left:500px;
         font-family:Comic Sans MS;
         text-decoration:Underline;
-        background:(100,0,100);}
+        background:rgb(100,0,100);}
 #home{padding-left:500px;
       font-family:Comic Sans MS;
         text-decoration:Underline;
 background:rgb(0,150,0);}
-#login{padding-left:50px;
+#login{padding-left:500px;
         font-family:Comic Sans MS;
         text-decoration:Underline;
         background:rgb(50,0,0);}
-#about{padding-left:50px; 
+#about{padding-left:500px; 
         font-family:Comic Sans MS;
         text-decoration:Underline;
         background:rgb(150,0,150);}
