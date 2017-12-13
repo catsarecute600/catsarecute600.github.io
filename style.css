@@ -2,8 +2,10 @@
             padding-left:300px;
             font-family:Comic Sans MS;
             text-decoration:Underlined;
-            text-color:rgb:(0,0,200}
+            text-color:rgb(0,0,200);
+            background:rgb(0,200,0);}
 #mystic{
-        Padding-left:300px;
+        padding-left:300px;
             font-family:Ariel;
-            text-color:rgb:(200,0,200}
+            text-color:rgb(200,0,200);
+            background:rgb(0,0,200);}
