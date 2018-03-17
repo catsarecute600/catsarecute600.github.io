@@ -1,0 +1,5 @@
+<!doctype html>
+<html>
+  for(var i=10, i<=500, i+=20){
+  rect(i,i,15,15
+  </html>
